@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of my background, highlight and journey ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavkrd/portfolio.git"
+  },
+  "author": "Rishav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavkrd/portfolio/issues"
+  },
+  "homepage": "https://github.com/rishavkrd/portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "get-canvas-context": "^1.0.2"
+  }
+}
