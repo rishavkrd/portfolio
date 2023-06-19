@@ -1,23 +1,22 @@
 {
-  "name": "portfolio",
+  "name": "particleground-portfolio",
   "version": "1.0.0",
-  "description": "A portfolio of my background, highlight and journey ",
-  "main": "index.js",
+  "description": "A particle-theme template as a landing page for your portfolio.",
+  "main": "app.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishavkrd/portfolio.git"
+    "url": "git+https://github.com/itsron717/ParticleGround-Portfolio.git"
   },
-  "author": "Rishav",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rishavkrd/portfolio/issues"
+    "url": "https://github.com/itsron717/ParticleGround-Portfolio/issues"
   },
-  "homepage": "https://github.com/rishavkrd/portfolio#readme",
+  "homepage": "https://github.com/itsron717/ParticleGround-Portfolio#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "get-canvas-context": "^1.0.2"
+    "express": "^4.18.2"
   }
 }
